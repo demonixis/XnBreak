@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2006
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XnBreak.Desktop", "XnBreak.Desktop.csproj", "{DAA9A18E-991C-464D-BF41-AAC50FA9DE6A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XnBreak.Desktop", "XnBreak/XnBreak.Desktop.csproj", "{DAA9A18E-991C-464D-BF41-AAC50FA9DE6A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
